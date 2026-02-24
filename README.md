@@ -37,6 +37,10 @@ Actualmente estoy aprendiendo:
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Johan2509&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Johan2509&show_icons=true&theme=tokyonight)
+
 ## 📫 Contacto
 
 - GitHub: https://github.com/JohanAceroSalazar
