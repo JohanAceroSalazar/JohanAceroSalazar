@@ -24,6 +24,14 @@ Mi objetivo es formarme en un desarrollador de software full-stack competente, c
 
 ---
 
+## 💡 Habilidades Blandas
+- Resolución de problemas 
+- Comunicación efectiva y trabajo en equipo  
+- Organización y gestión del tiempo    
+- Adaptabilidad y aprendizaje continuo
+
+---
+
 ### 📱 Aplicación de Traducción de Lengua de Señas
 Proyecto en desarrollo que busca traducir lengua de señas a texto para mejorar la inclusión y comunicación entre las personas.
 
@@ -37,10 +45,11 @@ Actualmente estoy aprendiendo:
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Johan2509&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=JohanAceroSalazar&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Johan2509&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JohanAceroSalazar&show_icons=true&theme=tokyonight)
 
+---
 ## 📫 Contacto
 
 - GitHub: https://github.com/JohanAceroSalazar
