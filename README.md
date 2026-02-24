@@ -41,7 +41,8 @@ Proyecto en desarrollo que busca traducir lengua de señas a texto para mejorar 
 
 Actualmente estoy aprendiendo:
 - Buenas prácticas en backend
-- Manejo de errores en APIs
+- Manejo en APIs
+- Lenguaje de programacion (Python)
 
 ---
 
@@ -49,6 +50,7 @@ Actualmente estoy aprendiendo:
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JohanAceroSalazar&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohanAceroSalazar&layout=compact&theme=tokyonight)
 ---
 ## 📫 Contacto
 
