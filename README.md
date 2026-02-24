@@ -1,9 +1,5 @@
-# 👨‍💻 Sobre Mí
-
-## 📌 Información Personal
-
-Hola, mi nombre es **Johan Alexander Acero Salazar**.  
-Soy estudiante de **Análisis y Desarrollo de Software** en el SENA y actualmente estoy fortaleciendo mis conocimientos en desarrollo backend y arquitectura de software.
+##Hola, mi nombre es **Johan Alexander Acero Salazar**.  
+Soy aprendiz de **Análisis y Desarrollo de Software** en el SENA y actualmente estoy fortaleciendo mis conocimientos en desarrollo backend y arquitectura de software.
 
 ---
 
