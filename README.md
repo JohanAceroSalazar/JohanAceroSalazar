@@ -1,7 +1,7 @@
 ## 📌 Perfil
 - **Nombre:** Johan Alexander Acero Salazar
 - **GitHub:** [@JohanAceroSalazar](https://github.com/JohanAceroSalazar)
-- **Email:** [johanacero2509@gamiul.com](mailto:johanacero2509@gmail.com)
+- **Email:** [johanacero2509@gmail.com](mailto:johanacero2509@gmail.com)
 - **Organización institucional:** [code-sena](https://github.com/code-sena)
  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
